@@ -107,6 +107,8 @@ class Excercise
         //         Console.Write($"x1 = {(-b + Math.Sqrt(delta)) / (2 * a)} va x2 = {(-b - Math.Sqrt(delta)) / (2 * a)}");
         //     }
         // }
+
+        
         Console.ReadLine();
     }
 }
